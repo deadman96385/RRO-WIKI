@@ -1,1 +1,1 @@
-Please click the Wiki option to see what this repo is about
+# Please click the Wiki option
